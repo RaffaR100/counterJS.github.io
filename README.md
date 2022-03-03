@@ -1,4 +1,4 @@
-# https---github.com-RaffaR100-counter1.github.io
+# counter.JS.github.io
 
 # JavaScript
 
