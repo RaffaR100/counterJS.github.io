@@ -14,15 +14,15 @@ You can visit the site [here](https://pensive-shannon-1c6062.netlify.app).
 # Project requirements
 
 * Upon entering the page, the counter must have the value 0
-* There must be two buttons : + and -
+* There must be three buttons : "Decrease", "Reset" and "Increase" 
 
 ***
 
 # Description
 
 ### This is a simple counter created with javaScript. I created this project to test the basic potential of javaScript. 
-### The counter has two buttons "-" and "+" which are used to increase or decrease the counter.
-### The counter design is simple but streamlined, and features a blue background.
+### The counter has three buttons "Decrease", "Reset" and "Increase" which are used to increase, decrease or reset the counter.
+### The counter design is simple but streamlined, and features a blue/white background.
 
 ***
 
