@@ -1,10 +1,13 @@
+![Alt Text](https://media.giphy.com/media/cJmYTABGDdVcYTWRvE/giphy.gif)
+
+
 # counter.JS.github.io
 
 # JavaScript
 
 My first JavaScript project, created for [Start2Impact](http://start2impact.it/) BASIC JS section.
 
-You can visit the site [here](https://cranky-mcnulty-7fff3d.netlify.app/).
+You can visit the site [here](https://pensive-shannon-1c6062.netlify.app).
 
 ***
 
